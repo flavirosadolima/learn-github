@@ -1,2 +1,2 @@
 README.md criado via cmdlet
-criando um origin/main (simulando remoto) e README.md para ela via CLI
+criando um origin/main (simulando clone remoto para testar o push) e README.md para ela via CLI
