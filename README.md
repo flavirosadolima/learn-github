@@ -5,3 +5,6 @@ Novo commit:
 modificação do nome da master origin/main para main 
 fazendo remote add origin para upar local > remoto
 retirada do arquivo.md que viera duplicado da Nova-branch-CLI
+
+
+- Agora, apenas mudando a diff entre as branchs para o merge.
